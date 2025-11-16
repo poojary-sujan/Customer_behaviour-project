@@ -25,29 +25,29 @@ The project makes use of SQL to clean the data, execute queries and explore the 
 
 How to Run This Project
 
-Step one. Download or clone the repository and save it to your computer.
+1. Download or clone the repository and save it to your computer.
 
-Step two. Open the project folder and confirm that the notebook file, the dataset, the SQL script, the Power BI file and the business problem statement document are present.
+2. Open the project folder and confirm that the notebook file, the dataset, the SQL script, the Power BI file and the business problem statement document are present.
 
-Step three. Install Python, Jupyter Notebook or Jupyter Lab, a SQL tool such as MySQL or DBeaver and Power BI Desktop.
+3. Install Python, Jupyter Notebook or Jupyter Lab, a SQL tool such as MySQL or DBeaver and Power BI Desktop.
 
-Step four. Install Python packages such as pandas, numpy, matplotlib and seaborn.
+4. Install Python packages such as pandas, numpy, matplotlib and seaborn.
 
-Step five. Open the notebook in Jupyter or Google Colab and adjust the dataset path if needed.
+5. Open the notebook in Jupyter or Google Colab and adjust the dataset path if needed.
 
-Step six. Run the notebook cells in order to clean, explore and visualize the data.
+6. Run the notebook cells in order to clean, explore and visualize the data.
 
-Step seven. Open your SQL tool and import the dataset. Run the SQL script to reproduce the query results.
+7. Open your SQL tool and import the dataset. Run the SQL script to reproduce the query results.
 
-Step eight. Open the Power BI file and refresh it to load the dataset from your local folder.
+8. Open the Power BI file and refresh it to load the dataset from your local folder.
 
-Step nine. Explore the interactive dashboard to understand the insights from the analysis.
+9. Explore the interactive dashboard to understand the insights from the analysis.
 
-Step ten. Read the business problem document to understand the goals and findings of the project.
+10. Read the business problem document to understand the goals and findings of the project.
 
-Step eleven. Modify the notebook, SQL script or dashboard if you want to personalize or extend the project.
+11. Modify the notebook, SQL script or dashboard if you want to personalize or extend the project.
 
-Step twelve. Commit and push your changes to GitHub if you want to update your repository.
+12. Commit and push your changes to GitHub if you want to update your repository.
 
 Insights Summary
 
